@@ -1,21 +1,9 @@
-print('Hello world')
-print('Gabriel')
-print(2+2)
+def hello_world():
+    return 'Olá Mundo'
 
-if 5 > 2:
-    print("Five is greater than two!")
+def my_github_nickname_is():
+    return 'felpsop'
+    
+    
 
-print('próxima ação')
-
-
-if 5 > 2: # aqui entra um comentário
-    print("Five is greater than two!")
-    print("Five is greater than two - another!")
-if 5 > 2:
-        print("Five is greater than two!")
-
-"""
-This is a comment
-written in
-more than just one line
-"""
+    
